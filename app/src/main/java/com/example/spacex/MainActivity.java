@@ -68,7 +68,7 @@ public class MainActivity extends AppCompatActivity {
 
                 adapter.setCrews(crewMembers);
                 //update RecyclerView
-                Toast.makeText(MainActivity.this, "OnChanged", Toast.LENGTH_SHORT).show();
+                //Toast.makeText(MainActivity.this, "OnChanged", Toast.LENGTH_SHORT).show();
             }
         });
 
